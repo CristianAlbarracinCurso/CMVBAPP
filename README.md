@@ -14,6 +14,8 @@ Para que funcione debera transcribir las keys que envie por mensaje privado en e
 ```
 src\databases\systemData.js
 ```
+Perdon pero no me dejaba subir el commit, creo que por editar el readme online, hice un git push --force origin master, subio todo como decia =) pero me borro los commits de antes, lo unico que me queda como para demostrar que venia trabajando es que en la parte de segurodad estan las veces que me borro las keys, mil disculpas!
+
 
 ### Dependencias 🔧
 
