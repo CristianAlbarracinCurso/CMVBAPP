@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "title": "Alimento ",
+    "description": "Novel Cordero y Arroz Perro Adulto Mediano y Grande - 15+3 Kg",
+    "price": 46990,
+    "discountPercentage": 0,
+    "rating": 4,
+    "stock": 94,
+    "brand": "Old Prince",
+    "category": "Perros",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/186507-200-200/148052.jpg?v=637871009908500000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/186507-1000-1000/148052.jpg?v=637871009908500000",
+      "https://puppis.vteximg.com.br/arquivos/ids/186507-600-600/148052.jpg?v=637871009908500000"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Alimento Premium",
+    "description": "Pollo y Carne Perro Adulto Raza Mediana - 20 Kg",
+    "price": 34900,
+    "discountPercentage": 10,
+    "rating": 4.44,
+    "stock": 24,
+    "brand": "Old Prince",
+    "category": "Perros",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/189030-200-200/132163.jpg?v=637965320413700000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/189030-1000-1000/132163.jpg?v=637965320413700000",
+      "https://puppis.vteximg.com.br/arquivos/ids/189030-600-600/132163.jpg?v=637965320413700000"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Alimento",
+    "description": "Perro Adulto Raza Pequeña - 3 Kg",
+    "price": 1249,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Pro Plan",
+    "category": "Perros",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/179790-200-200/7613287029164_3.png?v=637570861318870000",
+    "images": ["https://puppis.vteximg.com.br/arquivos/ids/179790-1000-1000/7613287029164_3.png?v=637570861318870000",
+    "https://puppis.vteximg.com.br/arquivos/ids/179790-600-600/7613287029164_3.png?v=637570861318870000"]
+  },
+  {
+    "id": 4,
+    "title": "Alimento",
+    "description": "Mini Adulto - 1 Kg",
+    "price": 8500,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "stock": 8500,
+    "brand": "Royal Canin",
+    "category": "Perros",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/155554-200-200/00847-g_sckcgd.jpg?v=635719705389500000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/155554-1000-1000/00847-g_sckcgd.jpg?v=635719705389500000",
+      "https://puppis.vteximg.com.br/arquivos/ids/155554-600-600/00847-g_sckcgd.jpg?v=635719705389500000"
+    
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Alimento",
+    "description": "Feline Adult - 7,5 Kg",
+    "price": 41940,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Club Performance",
+    "category": "Gatos",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/172836-200-200/168011-1.jpg?v=637350103681270000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/172836-1000-1000/168011-1.jpg?v=637350103681270000",
+      "https://puppis.vteximg.com.br/arquivos/ids/172836-600-500/168011-1.jpg?v=637350103681270000"
+    ]
+  },
+
+
+
+  {
+    "id": 6,
+    "title": "Alimento Seco",
+    "description": "Alimento Excellent Gato Sterilized Pollo - 1 kg",
+    "price": 8750,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Excellent",
+    "category": "Gatos",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/196203-200-200/168011-1.jpg?v=638482804541500000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/196203-1000-1000/168011-1.jpg?v=638482804541500000",
+      "https://puppis.vteximg.com.br/arquivos/ids/196203-600-600/150065--1-.jpg?v=638482804541500000"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Alimento Humedo",
+    "description": "Pouch Royal Canin Mini Adulto - 85 Gr",
+    "price": 1700,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Royal Canin",
+    "category": "Gatos",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/172808-200-200/156311-1.jpg?v=635719705389500000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/172808-1000-1000/156311-1.jpg?v=635719705389500000",
+      "https://puppis.vteximg.com.br/arquivos/ids/172808-600-500/156311-1.jpg?v=635719705389500000"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Alimento Humedo",
+    "description": "Lata Homemade Delights Chicken, Lamb & Rice Perro Adulto - 340 gr",
+    "price": 4500,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Homemade Delights",
+    "category": "Gatos",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/191663-200-200/161017.jpg?v=638143343614200000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/191663-1000-1000/161017.jpg?v=638143343614200000",
+      "https://puppis.vteximg.com.br/arquivos/ids/191663-600-500/161017.jpg?v=638143343614200000"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Alimento Humedo",
+    "description": "Pouch Sieger Perro Criadores - 100 Gr",
+    "price": 1850,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Sieger",
+    "category": "Perros",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/190819-200-200/132181.jpg?v=638055143947170000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/190819-1000-1000/132181.jpg?v=638055143947170000",
+      "https://puppis.vteximg.com.br/arquivos/ids/190819-600-500/132181.jpg?v=638055143947170000"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Alimento Humedo",
+    "description": "Pouch Pedigree Carne para Perro Adulto - 100 Gr",
+    "price": 600,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Pedigree",
+    "category": "Perros",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/182205-200-200/135061.jpg?v=637650377666370000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/182205-1000-1000/135061.jpg?v=637650377666370000",
+      "https://puppis.vteximg.com.br/arquivos/ids/182205-600-500/135061.jpg?v=637650377666370000"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Alimento",
+    "description": "Shulet Agua Fria - 10 Gr",
+    "price": 3400,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Shulet",
+    "category": "Peces",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/170595-200-200/135061.jpg?v=637650377666370000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/170595-1000-1000/135061.jpg?v=637650377666370000",
+      "https://puppis.vteximg.com.br/arquivos/ids/170595-600-500/135061.jpg?v=637650377666370000"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Alimento",
+    "description": "Alimento Tropical Africa Hervibore - 130 Gr",
+    "price": 26000,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Africa Hervibore",
+    "category": "Peces",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/171789-200-200/247028.jpg?v=637304603109330000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/171789-1000-1000/247028.jpg?v=637304603109330000",
+      "https://puppis.vteximg.com.br/arquivos/ids/171789-600-500/247028.jpg?v=637304603109330000"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Comedero",
+    "description": "Comedero Transparente FPI 4503 Para Aves - Tamaño Único",
+    "price": 14099,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Club Performance",
+    "category": "Aves",
+    "subcategory":"Accesorios",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/162190-200-200/Comedero-Transparente-FPI-4503-Para-Aves-Tamaño-Unico.jpg?v=636480717235570000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/162190-1000-1000/Comedero-Transparente-FPI-4503-Para-Aves-Tamaño-Unico.jpg?v=636480717235570000",
+      "https://puppis.vteximg.com.br/arquivos/ids/162190-600-500/Comedero-Transparente-FPI-4503-Para-Aves-Tamaño-Unico.jpg?v=636480717235570000"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Comedero",
+    "description": "Comedero Millex Transparente - 10cm",
+    "price": 14099,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Millex",
+    "category": "Aves",
+    "subcategory":"Accesorios",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/173440-200-200/233042.jpg?v=637396734045070000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/173440-1000-1000/233042.jpg?v=637396734045070000",
+      "https://puppis.vteximg.com.br/arquivos/ids/173440-600-500/233042.jpg?v=637396734045070000"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Alimento",
+    "description": "Alimento para Hamster Nelsoni Ranch Mix - 750Gr",
+    "price": 2500,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Nelsoni",
+    "category": "Otras especies",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/168658-200-200/166023.png?v=637086494518200000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/168658-1000-1000/166023.png?v=637086494518200000",
+      "https://puppis.vteximg.com.br/arquivos/ids/17216865836-600-500/166023.png?v=637086494518200000"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Juguete",
+    "description": "Juguete Puppis Pato de Vinilo",
+    "price": 3600,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Puppis",
+    "category": "Perros",
+    "subcategory":"Accesorios",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/186297-200-200/269259.jpg?v=637854765726170000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/186297-1000-1000/269259.jpg?v=637854765726170000",
+      "https://puppis.vteximg.com.br/arquivos/ids/186297-600-500/269259.jpg?v=637854765726170000"
+    ]
+  },
+  {
+    "id": 17,
+"title": "Juguete",
+    "description": "Puppis Guante de Béisbol de Vinilo",
+    "price": 3600,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Puppis",
+    "category": "Perros",
+    "subcategory":"Accesorios",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/186291-200-200/269254.jpg?v=637854765701770000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/186291-1000-1000/269254.jpg?v=637854765701770000",
+      "https://puppis.vteximg.com.br/arquivos/ids/186291-600-500/269254.jpg?v=637854765701770000"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Juguete",
+    "description": "Mordillo Dental Cancat Dumbell - 12 Cm",
+    "price": 16500,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Cancat Dumbell",
+    "category": "Perros",
+    "subcategory":"Accesorios",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/165700-200-200/221046.png?v=636772022818800000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/165700-1000-1000/221046.png?v=636772022818800000",
+      "https://puppis.vteximg.com.br/arquivos/ids/165700-600-500/221046.png?v=636772022818800000"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Juguete",
+    "description": "Pack Pelotas Rascals x4 Hierba y Cascabel",
+    "price": 9900,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Rascals",
+    "category": "Gatos",
+    "subcategory":"Accesorios",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/180476-200-200/237600.jpg?v=637590641702900000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/180476-1000-1000/237600.jpg?v=637590641702900000",
+      "https://puppis.vteximg.com.br/arquivos/ids/180476-600-500/237600.jpg?v=637590641702900000"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Juguete",
+    "description": "Juguete con Hierba Gatera Rascals Pack de Peces",
+    "price": 10500,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Rascals",
+    "category": "Gatos",
+    "subcategory":"Accesorios",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/176487-200-200/237525.jpg?v=637546240098700000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/176487-1000-1000/237525.jpg?v=637546240098700000",
+      "https://puppis.vteximg.com.br/arquivos/ids/176487-600-500/237525.jpg?v=637546240098700000"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Juguete",
+    "description": "Cañita Cancat - L",
+    "price": 5500,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Rascals",
+    "category": "Gatos",
+    "subcategory":"Accesorios",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/182595-200-200/221226.jpg?v=637673986813370000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/182595-1000-1000/221226.jpg?v=637673986813370000",
+      "https://puppis.vteximg.com.br/arquivos/ids/182595-600-500/221226.jpg?v=637673986813370000"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Grava",
+    "description": "Kit Betta Marina Black Epoxy Gravel - 240 gr",
+    "price": 1600,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Betta",
+    "category": "Peces",
+    "subcategory":"Accesorios",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/182676-200-200/228473.jpg?v=637673987241300000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/182676-1000-1000/228473.jpg?v=637673987241300000",
+      "https://puppis.vteximg.com.br/arquivos/ids/182676-600-500/228473.jpg?v=637673987241300000"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Pecera",
+    "description": "Pecera Pennplax Plastica Cuadrada - 32x22x21 cm",
+    "price": 20000,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Pennplax",
+    "category": "Peces",
+    "subcategory":"Accesorios",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/190105-200-200/267056.jpg?v=638025849519070000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/190105-1000-1000/267056.jpg?v=638025849519070000",
+      "https://puppis.vteximg.com.br/arquivos/ids/190105-600-500/267056.jpg?v=638025849519070000"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Pecera",
+    "description": "Pecera Pennplax Plastica Oval - 30x19cm",
+    "price": 20500,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Pennplax",
+    "category": "Peces",
+    "subcategory":"Accesorios",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/180579-200-200/275258.jpg?v=637593802051730000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/180579-1000-1000/275258.jpg?v=637593802051730000",
+      "https://puppis.vteximg.com.br/arquivos/ids/180579-600-500/275258.jpg?v=637593802051730000"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Alimento",
+    "description": "Alimento Para Aves Nelsoni Ranch Mix Silvestre - 750Gr",
+    "price": 4500,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Nelsoni",
+    "category": "Aves",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/168660-200-200/166027.png?v=637086496330670000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/168660-1000-1000/166027.png?v=637086496330670000",
+      "https://puppis.vteximg.com.br/arquivos/ids/168660-600-500/166027.png?v=637086496330670000"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Alimento",
+    "description": "Alimento Para Aves OFERTA!!!!",
+    "price": 1,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Nelsoni",
+    "category": "Ofertas",
+    "subcategory":"Alimento",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/168660-200-200/166027.png?v=637086496330670000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/168660-1000-1000/166027.png?v=637086496330670000",
+      "https://puppis.vteximg.com.br/arquivos/ids/168660-600-500/166027.png?v=637086496330670000"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Grava",
+    "description": "Kit Betta Marina Black OFERTA!!!!",
+    "price": 1,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Betta",
+    "category": "Ofertas",
+    "subcategory":"Accesorios",
+    "thumbnail": "https://puppis.vteximg.com.br/arquivos/ids/182676-200-200/228473.jpg?v=637673987241300000",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/182676-1000-1000/228473.jpg?v=637673987241300000",
+      "https://puppis.vteximg.com.br/arquivos/ids/182676-600-500/228473.jpg?v=637673987241300000"
+    ]
+  }
+
+]
