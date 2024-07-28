@@ -14,7 +14,7 @@ const AddressItem = ({ location, navigation }) => {
         <Text style={styles.text}>{location.address}</Text>
       </View>
       <Pressable onPress={onChangeLocation}>
-        <EvilIcons name="location" name="location" size={30} color="white">
+        <EvilIcons name="location" size={30} color="white">
           <Text style={styles.text2}>Cambiar</Text>
         </EvilIcons>
       </Pressable>

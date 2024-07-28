@@ -16,7 +16,7 @@ const OrderItem = ({ order }) => {
     <View style={styles.card}>
       <View style={styles.textContainer}>
         <Text style={styles.text}>{formattedDate}</Text>
-        <Text style={styles.text2}>${total.toFixed(2)}</Text>
+        <Text style={styles.text2}>${total}</Text>
       </View>
       <TouchableOpacity
         onPress={() => navigation.navigate("OrderItemDetail", { order })}
