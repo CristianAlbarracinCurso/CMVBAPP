@@ -18,7 +18,9 @@ const ImageSelector = ({ navigation }) => {
   const [isImageFromCamera, setIsImageFromCamera] = useState(false);
   const dispatch = useDispatch();
   const [triggerPostImage, result] = usePostProfileImageMutation();
+  
   const { localId } = useSelector((state) => state.auth.value);
+  
   const { data: imageFromBase } = useGetProfileimageQuery(localId);
   const pickLibraryImage = async () => {
     try {
@@ -46,20 +48,32 @@ const ImageSelector = ({ navigation }) => {
   };
 
   const verifyGalleryPermissions = async () => {
+    try {
     const { granted } = await ImagePicker.requestMediaLibraryPermissionsAsync();
     return granted;
-  };
-
-  const verifyCameraPermisson = async () => {
+  } catch (error) {
+    Alert.alert("Error", error.message || "Ocurrió un error desconocido", [
+      { text: "OK" },
+    ]);
+  }
+};
+  const verifyCameraPermissions = async () => {
+    try {
     const { status } = await ImagePicker.requestCameraPermissionsAsync();
     if (!status) {
       return false;
     }
     return true;
-  };
+  } catch (error) {
+    Alert.alert("Error", error.message || "Ocurrió un error desconocido", [
+      { text: "OK" },
+    ]);
+  }
+};
 
   const pickImage = async () => {
-    const isCameraOk = await verifyCameraPermisson();
+    try {
+    const isCameraOk = await verifyCameraPermissions();
     setIsImageFromCamera(true);
     if (isCameraOk) {
       let result = await ImagePicker.launchCameraAsync({
@@ -67,14 +81,19 @@ const ImageSelector = ({ navigation }) => {
         allowsEditing: true,
         aspect: [1, 1],
         base64: true,
-        quality: 0.2,
+        quality: 0.3,
       });
 
       if (!result.canceled) {
         setImage(`data:image/jpeg;base64,${result.assets[0].base64}`);
       }
     }
-  };
+  } catch (error) {
+    Alert.alert("Error", error.message || "Ocurrió un error desconocido", [
+      { text: "OK" },
+    ]);
+  }
+};
 
   const confirmImage = async () => {
     try {

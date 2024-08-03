@@ -7,6 +7,7 @@ import { useGetProfileimageQuery } from "../services/shopServices";
 import { clearUser } from "../features/User/UserSlice";
 import { useDB } from "../persistence/useDB";
 
+
 const MyProfile = ({ navigation }) => {
   const dispatch = useDispatch();
   const { truncateSessionTable } = useDB();

@@ -21,7 +21,6 @@ const Navigator = () => {
 
         if (response) {
           const user = response;
-
           dispatch(
             setUser({
               email: user.email,
